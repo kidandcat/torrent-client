@@ -1,4 +1,4 @@
-module github.com/veggiedefender/torrent-client
+module github.com/kidandcat/torrent-client
 
 go 1.13
 
